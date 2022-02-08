@@ -18,7 +18,7 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		87307692D2D27E553EBFEFAC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		8DC2DCD9BAEDAA16DF3DCA67 /* Motion.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Motion.podspec; path = ../Motion.podspec; sourceTree = "<group>"; };
+		8DC2DCD9BAEDAA16DF3DCA67 /* Motion.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Motion.podspec; path = ../Motion.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E799D335F14E3461320F4046 /* Pods_Motion_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Motion_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC2B963F2F7F36E14E73F71B /* Pods-Motion_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Motion_Tests.debug.xcconfig"; path = "Target Support Files/Pods-Motion_Tests/Pods-Motion_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
