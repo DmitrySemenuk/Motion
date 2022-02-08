@@ -1,0 +1,16 @@
+PODS:
+  - Motion (0.1.0)
+
+DEPENDENCIES:
+  - Motion (from `../`)
+
+EXTERNAL SOURCES:
+  Motion:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Motion: 2d76dd3e9504a0c5df112dcbab5164fe6cbe87de
+
+PODFILE CHECKSUM: 52893bfffeee780def162c8bee63f660d9d8ef60
+
+COCOAPODS: 1.11.2
