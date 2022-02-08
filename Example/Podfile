@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Motion_Tests' do
+  pod 'Motion', :path => '../'
+  
+  
+end
